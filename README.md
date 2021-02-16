@@ -1,5 +1,5 @@
 ### Hello there traveller!
-My name is Adam and I'm a student programmer based in Prague, Czech Republic
+I'm a student programmer based in Prague, Czech Republic
 
 
 
