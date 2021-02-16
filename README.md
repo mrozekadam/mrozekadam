@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there traveller!
+My name is Adam and I'm a student programmer based in Prague, Czech Republic
+
+
+
+
 
 <!--
 **mrozekadam/mrozekadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
