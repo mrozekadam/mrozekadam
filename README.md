@@ -1,9 +1,4 @@
-### Hello there traveller!
-I'm a student programmer based in Prague, Czech Republic
-
-
-
-
+<a href="https://app.daily.dev/mrozekadam"><img src="https://api.daily.dev/devcards/v2/So9qWyKDtVlu7BtvRfNe2.png?r=ey5&type=default" width="356" alt="Adam Mrózek's Dev Card"/></a>
 
 <!--
 **mrozekadam/mrozekadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
